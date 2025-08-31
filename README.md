@@ -122,7 +122,8 @@ used:-bar chart<br>
 ## 5.How does marital status affect customer spending during the Diwali sale?
 used:- Bar chart<br>
 
-<img src='images/Marital_status.png' alt=""dpi=400 width=900 height=300>
+<img src='images/Marital_status.png' alt=" " dpi=400 width=900 height=300>
+
 ## Observation:
 - Unmarried females (Marital_Status = 0, Gender = F) have the highest spending.
 -Married females also contribute significantly but lower than unmarried females.
@@ -166,6 +167,6 @@ used:bar chart<br>
 
 
 ```bash
-git clone https://github.com/<your-username>/diwali-sales-analysis.git
+git clone https://github.com/AshaKumari34/Diwali_sales.git
 cd diwali-sales-analysis
 pip install -r requirements.txt
