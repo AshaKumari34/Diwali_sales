@@ -138,6 +138,34 @@ used:- Bar chart<br>
 used:bar chart<br>
 <img src='images/Occupation.png' alt="" dpi=1000 width=800 height=300>
 ## Observation:
+- IT Sector customers spend the most, followed by Healthcare and Aviation.
+- Agriculture, Textile, and Construction sectors spend the least among all.
+## Overall insight:
+- The top 3 occupations (IT, Healthcare, Aviation) account for the majority of spending.
+- Agriculture, Textile, and Construction sectors are significantly underperforming.
+- This suggests that certain professions (like IT & Healthcare) have higher disposable income and willingness to spend compared to others
+## Tips
+- Prioritize IT, Healthcare, and Aviation professionals for premium products, loyalty programs, and targeted campaigns.
+- Offer exclusive deals or EMI options for Banking and Govt employees to increase mid-range spending
+- Design affordable packages, seasonal discounts, or installment plans for low-spending groups like Agriculture, Textile, and Construction to improve their participation.
+- Leverage data-driven campaigns (occupation-based personalized ads) to maximize ROI.
+## Which occupation contributes the most to product sales?
+used:-bar chart<br>
+<img src='images/productvsoccupation.png' width=800 height=300>
+## Observation:
+- People from the IT Sector spend the most, especially in Food, Clothing & Apparel, and Electronics & Gadgets.
+- Healthcare professionals also contribute significantly, mostly in Food and Clothing & Apparel
+- Occupations like Banking, Govt, and Media spend less compared to IT and Healthcare.
+- Food category dominates across almost all occupations.
+## Overall insight:
+- The Food category is the highest contributor regardless of occupation.
+- IT professionals are the top spenders across multiple product categories
+- Occupations like Govt and Media show limited spending, suggesting low engagement in premium categories.
+##Tips:
+- Launch exclusive offers for IT and Healthcare professionals, as they are high-value customers
+- For Govt and Media sectors, use targeted discounts to increase participation in categories like Clothing and Electronics.
+- Continue strengthening the Food category, as it is the most attractive across all occupations
+- Introduce bundle offers (Food + Electronics / Food + Apparel) for IT and Healthcare employees to increase cross-category sales.
 
 
 
