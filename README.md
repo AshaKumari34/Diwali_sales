@@ -166,7 +166,48 @@ used:-bar chart<br>
 - For Govt and Media sectors, use targeted discounts to increase participation in categories like Clothing and Electronics.
 - Continue strengthening the Food category, as it is the most attractive across all occupations
 - Introduce bundle offers (Food + Electronics / Food + Apparel) for IT and Healthcare employees to increase cross-category sales.
-
+## Who are the top 10 customers contributing the highest number of orders, and how can the company design loyalty programs to retain and further engage them?
+used:-bar chart<br>
+<img src='images/Top10.png' width=800 height=500>
+## Observation:
+- Top customer (User_ID: 1003476) has placed the highest number of orders (~100,000+).
+- The difference between the top 3 customers is not very large, showing close competition.
+- After the top 5, the order volume starts to slightly decline but still remains very high compared to average customers.
+## Overall insight:
+- A small set of customers (top 10) are responsible for a disproportionately large share of orders.
+- This indicates customer concentration risk → the business depends heavily on a few customers.
+- At the same time, these top customers represent the loyalty and retention strength of the platform.
+## Tips:
+- **Customer Retention**: Provide loyalty rewards, exclusive discounts, or premium memberships for these high-value customers.
+- **Upselling & Cross-Selling**: Introduce them to higher-margin or premium products.
+- **Reduce Dependency**: Encourage mid-tier customers to increase purchases by running targeted promotions.
+- **Risk Management**: If one or two of these top customers leave, revenue may drop—so diversification is important.
+## 📌 Business Recommendations Based on the analysis of Diwali Sales data, here are the key recommendations:<br> 
+ 1. **Target Female Customers** - Women spent significantly more than men.
+  - Focus marketing campaigns and discounts on female buyers. <br>
+  2. **Focus on Young & Middle-Aged Groups** - Age groups **26–35** and **36–45** contributed the highest sales. 
+  - Run targeted ads and festive offers for these groups. <br>
+  3. **Promote to Married Customers** - Married individuals showed higher spending.<br>
+  - Bundle family-oriented products and promote festive packages. <br>
+  4. **Occupation-Based Marketing** - IT, Healthcare, and Aviation professionals spent the most.<br>
+   - Offer premium products and loyalty discounts to these segments. <br>
+  5. **State-Wise Targeting** - Top states (e.g., Uttar Pradesh, Maharashtra, Karnataka) contributed maximum sales.<br>
+  - Allocate higher ad budget in these regions. <br>
+  6. **Product Strategy** - Categories like **Electronics, Apparel, and Accessories** sold the most. <br>
+  - Increase inventory for these categories during festive seasons. <br>
+  7. **Promote High-Revenue Products** - Top 10 products generated major revenue.<br>
+  - Run flash sales & ads around these products.<br>
+  8. **Customer Retention** - A few customers contributed significantly (high-value customers).<br>
+  - Start loyalty programs, personalized offers, and festive coupons.<br>
+  9. **Optimize Marketing Spend** - Focus less on low-performing states & occupations.<br>
+  - Redirect budget to top-performing segments.<br>
+  10. **Plan Inventory Using Insights** - Ensure top categories & products are well-stocked before festive sales. <br>
+  - Avoid overstocking low-demand products.
+ ## ✅ Conclusion status 
+- By implementing these strategies, the company can:  
+  - Increase festive season revenue.  
+  - Improve customer loyalty and repeat sales.  
+  - Optimize marketing and inventory costs.  
 
 
 
